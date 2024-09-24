@@ -1,6 +1,6 @@
 # Audio Transcription and Summarization AI App
-<img width="954" alt="msedge_cWgoF8VfzJ" src="https://github.com/user-attachments/assets/4b3d1920-a490-4224-a9a9-d3c5e70ed25c">
 <img width="960" alt="chrome_wy1lQs9PbO" src="https://github.com/user-attachments/assets/1655c54e-8e1f-4c8a-8b5e-865c682c9885">
+<img width="954" alt="msedge_cWgoF8VfzJ" src="https://github.com/user-attachments/assets/4b3d1920-a490-4224-a9a9-d3c5e70ed25c">
 This Flask-based web application allows users to record live audio from their browser, transcribe the recorded audio using Hugging Face models, summarize the transcription, and download the summary as a PDF.
 
 ## Features
